@@ -1,6 +1,6 @@
 import random
 print("Dice Roll Game")
-print("Press enter  for ending game")
+print("Press enter to end the game")
 while True:
   try:
     start=int(input("Enter the start value"))
